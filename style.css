@@ -1,0 +1,36 @@
+.outer-color
+{
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.container
+{
+    background-color: whitesmoke;
+    align-items: center;
+}
+
+h1
+{
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+}
+
+p
+{
+    font-family: "Noto Sans", sans-serif;
+}
+.card
+{
+    width: 450px;
+    max-width: 50%;
+    margin: auto;
+    border: 1px solid;
+    cursor: pointer;
+
+}
+
+.card-title
+{
+    text-align: center;
+}

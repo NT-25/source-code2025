@@ -1,0 +1,85 @@
+.outer-color
+{
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.container
+{
+    background-color: white;
+    align-items: center;
+}
+
+h1
+{
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+}
+
+h2
+{
+    font-family: "Noto Sans", sans-serif;
+    padding: 0.4em 0.5em;
+    color: #494949;
+    background: #f4f4f4;
+    border-left: solid 5px #7db4e6;
+    border-bottom: solid 3px #d7d7d7;
+}
+
+h5
+{
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+}
+
+h6
+{
+    font-family: "Noto Sans", sans-serif;
+}
+
+p
+{
+    font-family: "Noto Sans", sans-serif;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+.card
+{
+    width: 450px;
+    max-width: 50%;
+    margin: auto;
+    border: 1px solid;
+    cursor: pointer;
+
+}
+
+.card-title
+{
+    text-align: center;
+}
+
+.box
+{
+    font-family: "Noto Sans", sans-serif;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #474747;
+    background-color: whitesmoke;
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
+    line-height: 2;
+}
+.box p
+{
+    margin: 0;
+    padding: 0;
+}
